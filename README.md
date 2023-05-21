@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Wen Yi Tan**.
 
-### Tech Stack: In order of decreasing proficiency
+### Tech Stack:
 Java, Python, React, MySQL, JavaScript
 
 <!--
